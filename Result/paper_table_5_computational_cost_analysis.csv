@@ -1,0 +1,2 @@
+Model,Model Size MB,Total Parameters,Trainable Parameters,Non-trainable Parameters,GFLOPs,GMACs,Total Inference Time ms,Mean Inference Time ms/Image,Median Inference Time ms/Image,Throughput Images/s,Peak GPU Memory MB,CPU RAM Before MB,CPU RAM After MB
+BYOL-YOLOv12s,18.06,9255071,0,9255071,21.531,10.765,1885.171,18.852,18.264,53.002,402.814,4167.367,4167.367

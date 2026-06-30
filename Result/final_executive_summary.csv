@@ -1,0 +1,2 @@
+Model,SSL Images Used,Best SSL Epoch,Best SSL Loss,Fine-tuning Epochs,Image Size,Batch Size,Validation mAP@0.50,Validation mAP@0.50:0.95,Test mAP@0.50,Test mAP@0.50:0.95,Matched Test Macro F1,Matched Test Cohen Kappa,ECE,Brier Score,Model Size MB,Parameters,GFLOPs,Mean Inference Time ms/Image,Throughput Images/s
+BYOL-YOLOv12s,2672,33,0.071427,70,640,8,0.9929,0.9614,0.9943,0.9592,0.956,0.845,0.0697,0.0279,18.06,9255071,21.531,18.852,53.002

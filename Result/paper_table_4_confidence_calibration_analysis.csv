@@ -1,0 +1,2 @@
+Model,Split,Mean Confidence,Median Confidence,Std Confidence,Min Confidence,Max Confidence,Q1 Confidence,Q3 Confidence,ECE,Brier Score,Detection-Correctness ROC-AUC,Detection-Correctness PR-AUC,Detection-Correctness EER
+BYOL-YOLOv12s,test,0.9029,0.9434,0.1196,0.251,0.9858,0.915,0.9531,0.0697,0.0279,0.9868,0.9991,0.0552

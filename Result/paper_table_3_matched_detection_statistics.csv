@@ -1,0 +1,2 @@
+Model,Split,Matching IoU,Confidence Threshold,Event Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,Cohen's Kappa,Accuracy CI Low,Accuracy CI High,Macro F1 CI Low,Macro F1 CI High,Mean PPV,Mean NPV
+BYOL-YOLOv12s,test,0.5,0.25,0.9383,0.9198,0.9961,0.956,0.9681,0.845,0.9348,0.9418,0.9413,0.9685,0.9198,0.9993
